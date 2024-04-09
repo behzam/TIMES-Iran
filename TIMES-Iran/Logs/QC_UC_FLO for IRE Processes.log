@@ -1,0 +1,6 @@
+The following declarations will be ingored by TIMES (need UC_IRE):
+------------------------------------------------
+Scenairo-Region-UC_N-Process-Commodity
+
+BOUNDS-UC_IM_EX ; REG1 ; UC_IM_UP ; IMPELC1 ; ELC_IMP
+

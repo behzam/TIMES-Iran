@@ -1,0 +1,41 @@
+Process with no PCG/ActUnit:
+Scenario ; Region ; Process ; PrimaryCG ; Activity Unit 
+
+NewTechsIESMOne ; REG1 ; ALWR_new ;  ; GWyr
+NewTechsIESMOne ; REG1 ; ALWR_new_OT ;  ; GWyr
+NewTechsIESMOne ; REG1 ; ALWR_new_OTS ;  ; GWyr
+NewTechsIESMOne ; REG1 ; CSP_Para_new ;  ; GWyr
+NewTechsIESMOne ; REG1 ; CSP_Para_new_OT ;  ; GWyr
+NewTechsIESMOne ; REG1 ; CSP_Para_new_OTS ;  ; GWyr
+NewTechsIESMOne ; REG1 ; CSP_Tow_new ;  ; GWyr
+NewTechsIESMOne ; REG1 ; CSP_Tow_new_OT ;  ; GWyr
+NewTechsIESMOne ; REG1 ; CSP_Tow_new_OTS ;  ; GWyr
+NewTechsIESMOne ; REG1 ; EXT_new ;  ; GWyr
+NewTechsIESMOne ; REG1 ; Geothermal_new ;  ; GWyr
+NewTechsIESMOne ; REG1 ; Geothermal_new_OT ;  ; GWyr
+NewTechsIESMOne ; REG1 ; Geothermal_new_OTS ;  ; GWyr
+NewTechsIESMOne ; REG1 ; Hyd_new_La ;  ; GWyr
+NewTechsIESMOne ; REG1 ; Hyd_new_Sm ;  ; GWyr
+NewTechsIESMOne ; REG1 ; IGCC_new ;  ; GWyr
+NewTechsIESMOne ; REG1 ; IGCC_new_OT ;  ; GWyr
+NewTechsIESMOne ; REG1 ; IGCC_new_OTS ;  ; GWyr
+NewTechsIESMOne ; REG1 ; LWR_new ;  ; GWyr
+NewTechsIESMOne ; REG1 ; LWR_new_OT ;  ; GWyr
+NewTechsIESMOne ; REG1 ; LWR_new_OTS ;  ; GWyr
+NewTechsIESMOne ; REG1 ; MSWComb_new ;  ; GWyr
+NewTechsIESMOne ; REG1 ; MSWComb_new_OT ;  ; GWyr
+NewTechsIESMOne ; REG1 ; MSWComb_new_OTS ;  ; GWyr
+NewTechsIESMOne ; REG1 ; PumpedStorage_new ;  ; GWyr
+NewTechsIESMOne ; REG1 ; PV_DG_COM_new ;  ; GWyr
+NewTechsIESMOne ; REG1 ; PV_DG_RES_new ;  ; GWyr
+NewTechsIESMOne ; REG1 ; PV_new ;  ; GWyr
+NewTechsIESMOne ; REG1 ; Wind_new ;  ; GWyr
+NewTechsIESMOne ; REG1 ; ASC_new_OT ;  ; GWyr
+NewTechsIESMOne ; REG1 ; ASC_new_OTS ;  ; GWyr
+NewTechsIESMOne ; REG1 ; BiomassComb_new ;  ; GWyr
+NewTechsIESMOne ; REG1 ; BiomassComb_new_OT ;  ; GWyr
+NewTechsIESMOne ; REG1 ; BiomassComb_new_OTS ;  ; GWyr
+NewTechsIESMOne ; REG1 ; BiomassLandfill_new ;  ; GWyr
+NewTechsIESMOne ; REG1 ; BiomassLandfill_new_OT ;  ; GWyr
+NewTechsIESMOne ; REG1 ; BiomassLandfill_new_OTS ;  ; GWyr
+

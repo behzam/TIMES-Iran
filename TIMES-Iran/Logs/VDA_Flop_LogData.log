@@ -1,0 +1,13 @@
+Records Deleted: VDA_FLOP declarations for PCG members
+Scenario // Region // Process // Commodity // CommGrp // ValField //
+BASE,REG1,CL_BA_TS_MofatehHamedan_HYB_Dry,ELC_BA_TS_MofatehHamedan,-,1
+BASE,REG1,CL_BA_TS_MofatehHamedan_HYB_Dry,WAT,-,849720
+BASE,REG1,CL_BA_TS_MofatehHamedan_HYB_Wet,ELC_BA_TS_MofatehHamedan,-,1
+BASE,REG1,CL_BA_TS_MofatehHamedan_HYB_Wet,WAT,-,39891710.4948
+BASE,REG1,CL_KHO_BIO_ZosouzMashhad_Dry,ELC_KHO_BIO_ZosouzMashhad,-,1
+BASE,REG1,CL_KHO_BIO_ZosouzMashhad_Wet,ELC_KHO_BIO_ZosouzMashhad,-,1
+BASE,REG1,CL_TE_TCC_MontazerGhaem_1_Dry,ELC_TE_TCC_MontazerGhaem_1,-,1
+BASE,REG1,CL_TE_TCC_MontazerGhaem_1_Wet,ELC_TE_TCC_MontazerGhaem_1,-,1
+BASE,REG1,CL_TE_TCC_MontazerGhaem_2_Dry,ELC_TE_TCC_MontazerGhaem_2,-,1
+BASE,REG1,CL_TE_TCC_MontazerGhaem_2_Wet,ELC_TE_TCC_MontazerGhaem_2,-,1
+
